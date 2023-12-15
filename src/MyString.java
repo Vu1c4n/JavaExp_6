@@ -50,7 +50,6 @@ public class MyString {
 //
 //        return formatter.format(number);
 //    }
-    // 12345
     public static String formatNumber(String input){
         int length = input.length();
         if(length <= 3){
